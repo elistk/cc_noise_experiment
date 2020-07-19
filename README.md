@@ -2,4 +2,4 @@
 
 Experimentieren mit Perlin Noise
 
-Zwei Kreise die mit der noise-Funktion bewegt werden und ihre Bewegungen gegenseitig spiegeln.
+Zwei Kreise, die mit der noise-Funktion bewegt werden und ihre Bewegungen gegenseitig spiegeln.
